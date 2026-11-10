@@ -1,0 +1,10 @@
+.venv/
+venv/
+
+data/raw/
+data/process/
+
+data/raw/*
+data/process/*
+
+!data/raw/.gitkeep
